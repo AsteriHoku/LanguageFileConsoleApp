@@ -1,0 +1,11 @@
+
+var good = "good";
+
+vas bad = "bad";
+
+foxtrot uniform
+
+print(;
+print( Asteri Hoku Stjarna );
+print( FooBarBas );
+print( Yellow Submarine );

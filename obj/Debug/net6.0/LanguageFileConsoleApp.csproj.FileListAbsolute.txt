@@ -1,0 +1,15 @@
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\bin\Debug\net6.0\LanguageFileConsoleApp.exe
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\bin\Debug\net6.0\LanguageFileConsoleApp.deps.json
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\bin\Debug\net6.0\LanguageFileConsoleApp.runtimeconfig.json
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\bin\Debug\net6.0\LanguageFileConsoleApp.dll
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\bin\Debug\net6.0\ref\LanguageFileConsoleApp.dll
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\bin\Debug\net6.0\LanguageFileConsoleApp.pdb
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.csproj.AssemblyReference.cache
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.AssemblyInfoInputs.cache
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.AssemblyInfo.cs
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.dll
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\ref\LanguageFileConsoleApp.dll
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.pdb
+C:\Users\lixas\RiderProjects\LanguageFileConsoleApp\LanguageFileConsoleApp\obj\Debug\net6.0\LanguageFileConsoleApp.genruntimeconfig.cache
